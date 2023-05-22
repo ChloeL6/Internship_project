@@ -1,0 +1,5 @@
+# Data files
+*.csv
+
+# Python files
+venv
